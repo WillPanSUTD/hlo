@@ -17,4 +17,5 @@ HLO.exe bunny.off 5
 You will see the denoised mesh name by 'xxx_denoised.obj' inside the same folder. 
 
 
+The code will be released soon
 
