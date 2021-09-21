@@ -1,0 +1,6 @@
+[submodule "externals/libigl"]
+	path = externals/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "externals/eigen"]
+	path = externals/eigen
+	url = https://gitlab.com/libeigen/eigen.git
