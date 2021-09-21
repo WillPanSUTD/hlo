@@ -21,6 +21,7 @@ You will see the denoised mesh name by 'xxx_denoised.obj' inside the same folder
 
 If you find this code is useful for your research, please cite it by
 
+```
 @article{pan2020hlo,
   title={HLO: Half-kernel Laplacian operator for surface smoothing},
   author={Pan, Wei and Lu, Xuequan and Gong, Yuanhao and Tang, Wenming and Liu, Jun and He, Ying and Qiu, Guoping},
@@ -30,3 +31,4 @@ If you find this code is useful for your research, please cite it by
   year={2020},
   publisher={Elsevier}
 }
+```
