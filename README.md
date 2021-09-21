@@ -12,7 +12,7 @@ put the noisy mesh file under the same folder (e.g., bunny.off, supported format
 run: 
 
 ```
-HLO.exe bunny.off 5
+Surface_Smoothing.exe bunny.off 5
 ```
 
 'bunny.off' is the input mesh, 5 is the number of vertex update iteration.
