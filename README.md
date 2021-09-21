@@ -1,5 +1,5 @@
 # hlo
-HLO: Half-kernel Laplacian Operator for Surface Smoothing
+This is the source code for paper: Pan W, Lu X, Gong Y, et al. HLO: Half-kernel Laplacian operator for surface smoothing[J]. Computer-Aided Design, 2020, 121: 102807.
 
 ### Usage
 
@@ -19,5 +19,14 @@ HLO.exe bunny.off 5
 You will see the denoised mesh name by 'xxx_denoised.obj' inside the same folder. 
 
 
-The code will be released soon
+If you find this code is useful for your research, please cite it by
 
+@article{pan2020hlo,
+  title={HLO: Half-kernel Laplacian operator for surface smoothing},
+  author={Pan, Wei and Lu, Xuequan and Gong, Yuanhao and Tang, Wenming and Liu, Jun and He, Ying and Qiu, Guoping},
+  journal={Computer-Aided Design},
+  volume={121},
+  pages={102807},
+  year={2020},
+  publisher={Elsevier}
+}
